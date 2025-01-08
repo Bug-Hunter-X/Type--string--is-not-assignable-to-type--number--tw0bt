@@ -1,0 +1,1 @@
+This repository demonstrates a common type error in TypeScript where type inference can lead to unexpected behavior when passing strings to functions expecting numbers. The `bug.ts` file contains the buggy code, and `bugSolution.ts` shows how to resolve the issue using type guards.
